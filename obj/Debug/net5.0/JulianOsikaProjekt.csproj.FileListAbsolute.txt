@@ -1,0 +1,16 @@
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\JulianOsikaProjekt.exe
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\JulianOsikaProjekt.deps.json
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\JulianOsikaProjekt.runtimeconfig.json
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\JulianOsikaProjekt.runtimeconfig.dev.json
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\JulianOsikaProjekt.dll
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\ref\JulianOsikaProjekt.dll
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\bin\Debug\net5.0\JulianOsikaProjekt.pdb
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.csproj.AssemblyReference.cache
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.AssemblyInfoInputs.cache
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.AssemblyInfo.cs
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.dll
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\ref\JulianOsikaProjekt.dll
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.pdb
+C:\Users\Julo\Desktop\AGH\Semestr 2\JPWP_C\JulianOsikaProjekt\JulianOsikaProjekt\obj\Debug\net5.0\JulianOsikaProjekt.genruntimeconfig.cache
